@@ -1,0 +1,22 @@
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Lenovo\Desktop\derste işlenenler\KitapKayıtProjesii\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Lenovo\Desktop\derste işlenenler\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Lenovo\Desktop\derste işlenenler\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Çalışmalar\C# BilgeAdam ders notlarım\opp uygulamalar\KitapKayıtProjesii\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
